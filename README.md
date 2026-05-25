@@ -1,6 +1,6 @@
 # 🌍 AI Travel Planner
 
-An AI-powered Travel Planner built using **Streamlit**, **CrewAI**, **OpenAI**, and **SerpAPI**.
+An AI-powered Travel Planner built using **VS Code**, **Streamlit**, **CrewAI**, **OpenAI**, and **SerpAPI**.
 
 The application uses multiple AI agents to search for:
 
