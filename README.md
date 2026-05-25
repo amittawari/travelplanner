@@ -73,6 +73,9 @@ The application uses multiple CrewAI agents:
   - Google Flights
   - Google Hotels
 
+### IDE
+
+- VS Code
 ---
 
 # 📂 Project Structure
