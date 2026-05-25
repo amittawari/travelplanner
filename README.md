@@ -492,7 +492,7 @@ Planned enhancements:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Amit Tawari**
 
 GitHub:
 
