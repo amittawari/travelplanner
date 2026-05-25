@@ -1,0 +1,5 @@
+streamlit
+crewai
+openai
+google-search-results
+python-dotenv
